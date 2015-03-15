@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"FONT",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"top",
+				"topleft"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"co",
+				"col	Tag"
+			],
+			[
+				"col",
+				"colgroup	Tag"
+			],
+			[
+				"bott",
+				"bottomleft"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"boto",
+				"bottomleft"
+			],
+			[
+				"to",
+				"topright"
+			],
+			[
+				"bottom",
+				"bottomright"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"bord",
+				"border-collapse"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"u",
+				"upper-roman"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/moveme.css",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/b_z/Documents/boot/MoveMe/index.html",
+		"/Users/b_z/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/b_z/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/b_z/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/b_z/Documents/current/06case3/cssdemo.htm",
+		"/Users/b_z/Desktop/PROJECTS/topic06/06review/order.htm",
+		"/Users/b_z/Desktop/PROJECTS/topic06/06review.sublime-project",
+		"/Users/b_z/Desktop/PROJECTS/topic06/06review/styles/redball.css",
+		"/Users/b_z/Desktop/PROJECTS/topic06/06review/styles/pizza.css",
+		"/Users/b_z/Desktop/Bootstrap/InfiniteSkills - Learning Bootstrap 3 /Learning Bootstrap 3 - Working Files/Chapter 5/0500/0500:site-template2.html",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 3/db.php",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 3/quote-get-single.php",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 3/style.css",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 3/index.htm",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 2/style.css",
+		"/Volumes/Seagate 3 Gb/УРОКИ. Видео/WEBDESIGN:DEVELOP/Infinite Skills. Introduction To AJAX With jQuery/Introduction To AJAX With jQuery - Working Files/Chapter 2/index.htm",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/tutorial_schedule/styles/kpaf.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case3/dome.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/tutorial_schedule/styles/tables.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case3/dtable.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/tutorial_schedule/schedule.htm",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case3/dhome.htm",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case3/bottomright.jpg",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case2/cal.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case1/sudoku.htm",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case2/feb.htm",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case1/stable.css",
+		"/Users/b_z/Desktop/Files/CPT330/topic05/case1/jpf.css",
+		"/Users/b_z/Desktop/PROJECTS/topic03/case3/css/cw_layout.css",
+		"/Users/b_z/Desktop/PROJECTS/topic03/case3/civilwar.htm",
+		"/Users/b_z/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/b_z/Desktop/Sublme Exercise Files/roux_website/index.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"<!",
+			".btn",
+			"<p>",
+			"id=",
+			"reception",
+			"r",
+			"<p>Gerald Chow will graduate from Roux Academy this spring with a BFA and a painting concentration. He took his longtime interest in graffiti and street art and has translated it to the canvas in cartoonish, graphical pictures. <a href=\"spotlight.htm\" title=\"student profile\" class=\"more\">more info</a></p>\n",
+			"will",
+			"<!doctype html>\n<html>\n<head>\n<meta charset=\"UTF-8\">\n<title>\n</title>\n<!--[if lt IE 9]>\n<script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n<![endif]-->\n<!--[if lt IE 9]>\n<script src=\"_scripts/respond.min.js\"></script>\n<![endif]-->\n<link href=\"_css/main.css\" rel=\"stylesheet\" media=\"screen, projection\">\n</head>\n<body>\n<header class=\"homeHeader pageHeader\">\n<h1>Roux Academy of Art and Design<a href=\"/index.htm\" title=\"home\"></a></h1>\n<nav id=\"pageNav\" class=\"cf\">\n  <ul>\n    <li><a href=\"programs/programs.htm\" title=\"programs\">Programs</a></li>\n    <li><a href=\"admissions.htm\" title=\"admissions\">Admissions</a></li>\n    <li><a href=\"student_portal.htm\" title=\"student portal\">Student Portal</a></li>\n    <li><a href=\"campus_portal.htm\" title=\"campus portal\">Campus</a></li>\n    <li><a href=\"alumni.htm\" title=\"alumni\">Alumni</a></li>\n    <li><a href=\"about/about.htm\"  title=\"about Roux Academy\">About</a></li>\n  </ul>\n</nav>\n<p class=\"branding\">We are passionate about the role of <span class=\"orange\">innovation</  and <span class=\"lavender\">creativity</span> in solving the <span class=\"blue\">design</span> challenges of tomorrow. <a href=\"admissions.htm\" title=\"admissions\"> Join us.</a></p>\n</header>\n<section class=\"spotlight info condense\">\n<h2>Student Spotlight</h2>\n<img src=\"_images/featured_student.jpg\" width=\"285\" height=\"230\" alt=\"Featured student work\">\n<p>Gerald Chow will graduate from Roux Academy this spring with a BFA and a painting concentration. He took his longtime interest in graffiti and street art and has translated it to the canvas in cartoonish, graphical pictures. <a href=\"spotlight.htm\" title=\"student profile\" class=\"more\">more info</a></p>\n</section>\n<section class=\"show info condense\">\n<h2>Current Show</h2>\n<img src=\"_images/show1.jpg\" width=\"285\" height=\"230\" alt=\"Current show\">\n<p>Join us on May 11th for the opening reception of Ceramic Currency, an annual show presented by graduates from the Craft and Design program. Come see an exhibition of contemporary pottery and ceramic sculpture by over 30 artists. <a href=\"current_show.htm\" title=\"current show\" class=\"more\">more info</a></p>\n</section>\n<section class=\"events info condense\">\n<h2>Coming Events</h2>\n<img src=\"_images/events.jpg\" alt=\"Coming events\" width=\"285\" height=\"230\" class=\"info\">\n<ul>\n  <li><span class=\"date\">3/10</span> Roux Benefit for the Elementary Arts Concert</li>\n  <li><span class=\"date\">3/12</span> Midterm exams begin</li>\n  <li><span class=\"date\">3/16</span> 5th Annual Working Artist Lecture Series kicks off</li>\n  <li><span class=\"date\">3/17</span>NYC St. Patrick’s Day Parade</li>\n  <li><span class=\"date\">4/06</span>Opening reception for The Stone World exhibit</li>\n  <li><span class=\"date\">4/23</span>Roux Student Fashion Weeks starts</li>\n  <li><span class=\"date\">4/30</span>Cross-Campus Bingo Championship</li>\n  <li><span class=\"date\">5/11</span>Opening reception for the Ceramic Currency exhibit</li>\n  <li><span class=\"date\">5/21</span>Finals exams begin</li>\n</ul>\n</section>\n<article id=\"mainContent\">\n<h2>Fall registration is now open</h2>\n<p>Here at Roux, we&rsquo;re as excited for the upcoming school year as we are this one. Visiting professors Barry Mandow (renowned photojournalist) and Rebecca Short (textile designer) will be joining us in the fall and construction on the Roux North remodel will be completed by October 2012.</p>\n<p>Registration for the Fall 2012 semester opens July 13th. Current students: don&rsquo;t forget to sign up for your registration appointment. If you&rsquo;re a prospective student looking to apply to Roux, now is the time to meet with a counselor to polish up those last remaining application details and complete any necessary paperwork for grants and scholarships. The application deadline is April 13th. Program spots will be awarded on a first-come, first-serve basis, so file your applications soon. <a href=\"admissions.htm\" title=\"admissions\" class=\"more\">Visit our Admissions Page for more information </a></p>\n\n<h2>Victor Stuesse wins Lacie Award</h2>\n<p>Victor Stuesse is the recipient of this year&rsquo;s Lacie Award, dedicated to honoring the work of a professor who has touched lives both inside and outside of the Roux community. As a teacher, Professor Stuesse has ushered over 900 students through the Craft + Design program, and has always been willing to share the secrets of his craft. As a sculptor and restorer, he has donated his time to public works projects such as the Central Park Arts Maintenance Council and the Metropolitan Museum&rsquo;s docent program.</p>\n<p>Professor Stuesse has had a long and successful career in the arts, having received many commissions over the years in cities from Chicago to Bangkok, but always returns to &ldquo;the job I call a dream.&rdquo; For his dedication to teaching and community involvement, the Roux Academy is proud to award him with this year&rsquo;s prize, which also includes a stipend for pursuit of personal projects outside the academy. Congratulations, Professor Stuesse!</p>\n</article>\n<aside>\n<section class=\"alumni info condense\">\n<h2>Alumni Profile</h2>\n<img src=\"_images/alumni_profile.jpg\" width=\"285\" height=\"230\" alt=\"Alumni profile\">\n<p>This month's Alumni Profile is Arnie Palmer, BFA Studio Concentration. During his recent visit to New York for his upcoming show he was generous enough to sit down with us and talk about his formative years as a student on the North campus and life in the outside world. <a href=\"alumni.htm\" title=\"alumni profile\" class=\"more\">Read more</a></p>\n</section>\n<section class=\"connect info\">\n<h2>Connect with us</h2>\n<ul>\n  <li><a href=\"http://www.twitter.com/rouxacademy\" title=\"Follow us!\" target=\"_blank\" class=\"twitter\">Twitter</a></li>\n  <li><a href=\"https://plus.google.com/\" title=\"Google Plus\" target=\"_blank\" class=\"google\">Google Plus</a></li>\n  <li><a href=\"http://facebook.com\" title=\"Be our friend\" target=\"_blank\" class=\"facebook\">Facebook</a></li>\n  <li><a href=\"http://www.linkedin.com\" title=\"Let's connect\" target=\"_blank\" class=\"linked\">LinkedIn</a></li>\n</ul>\n</section>\n<section class=\"find info\">\n<h2>Find out more</h2>\n<ul>\n<li><a href=\"tour.htm\" title=\"Take a campus tour\">Take a campus tour</a></li>\n<li><a href=\"catalog.htm\" title=\"course catalog\">Download a course catalog</a></li>\n<li><a href=\"admissions.htm\" title=\"Apply now\">Apply now</a></li>\n</ul>\n</section>\n</aside>\n<footer id=\"pageFooter\" class=\"cf\">\n<nav class=\"footerNav\">\n<section class=\"col\">\n<h3>About Roux Academy</h3>\n  <div class=\"col1\">\n  <ul>\n  <li><a href=\"mission.htm\" title=\"Our mission\">Mission Statement</a></li>\n  <li><a href=\"history.htm\" title=\"school history\">School History</a></li>\n  <li><a href=\"accreditation.htm\" title=\"accreditation and affliates\">Accreditation &amp; Affiliates</a></li>\n  <li><a href=\"board.htm\" title=\"board members\">Board Members</a></li>\n  </ul>\n  </div>\n  <div class=\"col2\">\n  <ul>\n  <li><a href=\"faculty.htm\" title=\"faculty and staff\">Faculty &amp; Staff</a></li>\n  <li><a href=\"visiting_professors.htm\" title=\"visiting professors\">Visiting Professors</a></li>\n  <li><a href=\"museum.htm\" title=\"Maribielle Roux Museum\">Marbielle Roux Museum</a></li>\n  <li><a href=\"directions.htm\" title=\"directions\">Map &amp; Directions</a></li>\n  </ul>\n  </div>\n</section>\n<section class=\"col\">\n<h3>Admissions &amp; Programs</h3>\n  <div class=\"col1\">\n  <ul>\n  <li><a href=\"degrees.htm\" title=\"Degree programs\">Degree Programs</a></li>\n  <li><a href=\"catalog.htm\" title=\"course catalog\">Course Catalog</a></li>\n  <li><a href=\"fine_art.htm\" title=\"fine art programs\">Fine Art Programs</a></li>\n  <li><a href=\"design.htm\" title=\"design concentration\">Design Concentration</a></li>\n  </ul>\n  </div>\n  <div class=\"col2\">\n  <ul>\n  <li><a href=\"fashion.htm\" title=\"fashion program\">Fashion Program</a></li>\n  <li><a href=\"product_design.htm\" title=\"product design\">Product Design</a></li>\n  <li><a href=\"continuing_ed.htm\" title=\"Continuing Education\">Continuing Education</a></li>\n  <li><a href=\"financial_aid.htm\" title=\"tuition and financial aid\">Tuition &amp; Financial Aid</a></li>\n  </ul>\n  </div>\n</section>\n<section class=\"col\">\n<h3>Student Resources</h3>\n  <div class=\"col1\">\n  <ul>\n  <li><a href=\"campus.htm\" title=\"Campus information\">Campus Information</a></li>\n  <li><a href=\"housing.htm\" title=\"student housing\">Student Housing</a></li>\n  <li><a href=\"contact.htm\" title=\"transcript request\">Transcript Request</a></li>\n  <li><a href=\"applying.htm\" title=\"application process\">Application Process</a></li>\n  </ul>\n  </div>\n  <div class=\"col2\">\n  <ul>\n  <li><a href=\"portfolio_review.htm\" title=\"portfolio review\">Portfolio Review</a></li>\n  <li><a href=\"conselling.htm\" title=\"career counselling\">Career Counselling</a></li>\n  <li><a href=\"internships.htm\" title=\"internship programs\">Internship Programs</a></li>\n  <li><a href=\"student_portal.htm\" title=\"student portal login\">Student Portal Login</a></li>\n   </ul>\n  </div>\n</section>\n</nav>\n<p>&copy;Copyright  Roux Academy of Art &amp; Design.  All rights reserved.<a href=\"privacy.htm\" title=\"privacy statement\"> Privacy Statement</a> |<a href=\"legal.htm\" title=\"legal terms\"> Legal Terms and Conditions</a> |<a href=\"disclosures.htm\" title=\"student outcomes and disclosures\"> Student Outcomes/Disclosures</a></p>\n</footer>\n</body>\n</html>\n",
+			"translated",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/moveme.css",
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"/Users/b_z/Downloads/Lynda.com. Up and Running with Sublime Text 2/exercise files/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/roux_website.sublime-project"
+			],
+			[
+				"",
+				"/Users/b_z/Desktop/PROJECTS/sudoku.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}
