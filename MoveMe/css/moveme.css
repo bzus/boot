@@ -80,7 +80,10 @@ hr {
     color: #ed7337;
 }
 .sidebar{
-    border-color: #e9e6df;
+    background-color: #e9e6df;
+}
+.bpad {
+    margin-bottom: 30px;
 }
 @media(min-width: 768px){
     .carousel-inner > .item{
